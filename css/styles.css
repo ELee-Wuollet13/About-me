@@ -1,7 +1,7 @@
 body {
   text-align: center;
   background-color: gray;
-  
+
 }
 
 .bio {
@@ -12,5 +12,5 @@ body {
 }
 
 h1 {
-  text
+  color: blue;
 }
